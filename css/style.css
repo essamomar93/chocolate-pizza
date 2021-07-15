@@ -1,0 +1,121 @@
+
+
+body {
+margin-left: 10%;
+margin-right: 10%;
+}
+
+nav {
+    position: relative;
+   display:inline-block; 
+float: right;
+top: -32px;
+}
+
+
+.print2 {
+    margin-left:  93%;
+   
+}
+
+
+
+h1 {
+    font-style: italic;
+    /* float: right; */
+    /* width:25%; */
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-bottom: 0%;
+    
+}
+header p {
+margin-top: 0%;
+margin-left:5%;
+font-size:x-small;
+}
+
+
+.img4 {
+    width: 100%;
+}
+
+header img {
+float: left;
+size: 50%;
+margin-bottom: 0%;
+}
+
+.form {
+    width: 100%;
+    font-size: 20px;
+    background-repeat: no-repeat;
+   
+    display:inline-block;
+    height: 20%;
+   
+    background-image: url("../img/list-bg.png");
+}
+
+.form input {
+    display: inline-block;
+}
+
+.sec1 {
+    width:50%;
+    float: right;
+}
+
+
+
+
+nav section{
+display: inline-block;
+margin-left: 2px;
+margin-right: 2px;
+}
+
+.img2 {
+    margin-left: 7px;
+}
+
+hr {
+    border: 100px rgb(20, 20, 20);
+ 
+}
+
+#p1 {
+    float: right;
+}
+
+
+
+h2 {
+    width: 100%;
+
+    font-size: 150%;
+}
+
+.hr {
+    border-top: 100px gray;
+}
+
+button {
+
+    background-color: rgb(206, 67, 67);
+    position: relative;
+    float: right;
+    top: -58px;
+}
+
+.img3 {
+float: left;
+}
+
+footer {
+text-align: center;
+}
+
+.p3{
+    font-size: 30px;
+}
